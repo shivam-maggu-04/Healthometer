@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416355660038",
+    "project_id": "healthometer-92b88",
+    "storage_bucket": "healthometer-92b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416355660038:android:3ab0719451198d88046e87",
+        "android_client_info": {
+          "package_name": "com.shivam.healthometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416355660038-7jog96nacccdtrfvsgmdv9h42afkacq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.healthometer",
+            "certificate_hash": "be992ca5178f1f7dd7f0f4e50fe0d72ff8ba5755"
+          }
+        },
+        {
+          "client_id": "416355660038-j11huam8k4ge3a4nsrnudn8cpafnk27h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uhBLyPuKg6BFyE2RfvEkVN7dLVZ2cDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416355660038-j11huam8k4ge3a4nsrnudn8cpafnk27h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
